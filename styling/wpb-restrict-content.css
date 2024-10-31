@@ -1,0 +1,4 @@
+.wp-restrict-content__image {
+    max-width:100%;
+    display: block;
+}
